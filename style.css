@@ -78,6 +78,28 @@ li:hover {
     color: white
 }
 
+#result-container{
+   text-align:center
+}
+
 #result-container h2{
     margin-bottom : 10px;
+    text-align: center;
+}
+
+#result-container p {
+    text-align: center;
+    font-size: 40px;
+}
+
+#result-container div{
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#restart-btn{
+    margin-top: 50px;
 }
